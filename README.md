@@ -1,2 +1,3 @@
 # sandbox
-A place for general experimentation
+
+A place for tutorials, experiments, etc.
