@@ -1,5 +1,7 @@
 # README
 
+(From the Redwood tutorial at https://redwoodjs.com/docs/tutorial/.)
+
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
 > **Prerequisites**
