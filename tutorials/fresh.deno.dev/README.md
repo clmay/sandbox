@@ -1,5 +1,7 @@
 # fresh project
 
+From the Fresh docs [Getting Started guide ](https://fresh.deno.dev/docs/getting-started).
+
 ### Usage
 
 Start the project:
