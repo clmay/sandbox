@@ -1,5 +1,5 @@
 # a script to rename all the files in the course folders with the section name, and move them up a level
-# after this, search and replace all the file names in the index.html to fix the links
+# after this, fix the links in index.html
 
 find "$1"/* -type d | while read -r folder; do
     if [[ -f "$folder/index.html" ]]; then
