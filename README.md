@@ -2,6 +2,8 @@
 
 A place for tutorials, experiments, etc.
 
+![sandbox toys](sandbox.svg)
+
 ## Contents
 
 - [`courses/`](./courses/): code from actual courses, such as from Udemy or other MOOC platforms.
