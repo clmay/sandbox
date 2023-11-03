@@ -1,0 +1,69 @@
+[
+  {
+    "date": "2022-11-02",
+    "nodes": [
+      {
+        "url": "https://www.google.com",
+        "title": "Google",
+        "nodes": [
+          {
+            "url": "https://www.google.com/search?q=hacker+news",
+            "title": "hacker news - Google search",
+            "nodes": [
+              {
+                "url": "https://news.ycombinator.com",
+                "title": "Hacker News",
+                "nodes": [
+                  {
+                    "url": "https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031",
+                    "title": "In a surprising finding, light can make water evaporate without heat"
+                  },
+                  {
+                    "url": "https://bitwarden.com/help/releasenotes/#2023-10-0",
+                    "title": "Release Notes | Bitwarden Help & Support"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://www.nytimes.com",
+        "title": "The New York Times - Breaking News, US News, World News and Videos",
+        "nodes": [
+          {
+            "url": "https://www.nytimes.com/2023/10/31/science/fruit-flies-los-angeles-invasive.html",
+            "title": "Fruit Flies Are Invading Los Angeles. The Solution? More Fruit Flies. - The New York Times",
+            "nodes": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Main_Page",
+                "title": "Wikipedia, the free encyclopedia",
+                "nodes": [
+                  {
+                    "url": "https://en.wikipedia.org/w/index.php?fulltext=1&search=mediterranean+fruit+fly",
+                    "title": "Search results for 'mediterranean fruit fly' - Wikipedia",
+                    "nodes": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Mediterranean_fruit_fly",
+                        "title": "Mediterranean fruit fly - Wikipedia"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "url": "https://www.nytimes.com/2023/10/31/science/archaeology-egypt-book-dead.html",
+                "title": "Now Showing, an Ancient Spell Book for the Dead - The New York Times"
+              },
+              {
+                "url": "https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html",
+                "title": "If You Plant Milkweed, They Will Come. (And Not Just the Butterflies.) - The New York Times"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
