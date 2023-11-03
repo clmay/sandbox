@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Outlinearize",
+  "version": "0.1.0",
+
+  "description": "Adds a red outline all elements on the page.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["outlinearize.js"]
+    }
+  ]
+}
