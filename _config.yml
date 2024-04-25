@@ -1,0 +1,3 @@
+exclude:
+  - astro/astro-sandbox/src
+  - astro/personal-starter/src
