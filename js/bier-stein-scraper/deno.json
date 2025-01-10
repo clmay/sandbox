@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "cheerio": "npm:cheerio@^1.0.0"
+  },
+  "tasks": {
+    "dev": "deno run --allow-env --allow-net --allow-write src/main.ts"
+  }
+}
