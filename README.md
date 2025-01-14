@@ -1,4 +1,4 @@
-# Sandbox
+# sandbox
 
 <img align="right" width="400" height="400" src="./sandbox.png" alt="sandbox with toys" style="margin: 0 0 20px 20px;">
 

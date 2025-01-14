@@ -1,4 +1,4 @@
-# 🤖 Bier Stein Scraper
+# 🤖 bier-stein-scraper
 
 A Deno-based web scraper that fetches and parses the current tap list from [The Bier Stein](https://thebierstein.com/draft-bottles/) in Eugene, Oregon. The scraper outputs timestamped JSON data containing detailed information about each beer on tap.
 

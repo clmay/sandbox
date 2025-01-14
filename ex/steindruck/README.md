@@ -1,4 +1,4 @@
-# 🍺 Steindruck
+# 🍺 steindruck
 
 Archives and displays the tap list history from [The Bier Stein](https://thebierstein.com/draft-bottles/) in Eugene, Oregon, allowing you to explore past offerings.
 
