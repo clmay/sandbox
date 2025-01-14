@@ -13,7 +13,7 @@ Projects here are in various stages of development—from initial concepts to co
 
 ## Web applications
 
-### [🍺 Steindruck](https://github.com/clmay/sandbox/tree/main/ex/steindruck)
+### [🍺 steindruck](https://github.com/clmay/sandbox/tree/main/ex/steindruck)
 
 ✨ Not Started ✨
 
@@ -24,14 +24,14 @@ A Phoenix web application that archives the Bier Stein's tap list and allows use
 
 ## Utilities
 
-### [🤖 Bier Stein Scraper](https://github.com/clmay/sandbox/tree/main/js/bier-stein-scraper)
+### [🤖 steinblick](https://github.com/clmay/sandbox/tree/main/js/steinblick)
 
 ✅ Complete ✅
 
 A Deno-based web scraper for the Bier Stein's tap list.
 
-- Uses Cheerio for HTML parsing
-- Outputs timestamped JSON data
+- Uses [cheerio](https://www.npmjs.com/package/cheerio) for HTML parsing
+- Outputs the taplist as a JSON object
 - Written in TypeScript
 
 ## Learning
