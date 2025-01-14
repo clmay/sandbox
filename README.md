@@ -14,7 +14,7 @@ Projects here are in various stages of development—from initial concepts to co
 
 ## Web Applications
 
-### [🍺 Bier Stein Taplist](./ex/bier_stein_taplist/)
+### [🍺 Bier Stein Taplist](https://github.com/clmay/sandbox/tree/main/ex/bier_stein_taplist)
 ✨ Not Started ✨
 
 A Phoenix web application that archives the Bier Stein's tap list and allows users to explore its history.
@@ -24,7 +24,7 @@ A Phoenix web application that archives the Bier Stein's tap list and allows use
 
 ## Utilities
 
-### [🤖 Bier Stein Scraper](./js/bier-stein-scraper/)
+### [🤖 Bier Stein Scraper](https://github.com/clmay/sandbox/tree/main/js/bier-stein-scraper)
 ✅ Complete ✅
 
 A Deno-based web scraper for the Bier Stein's tap list.
@@ -35,4 +35,4 @@ A Deno-based web scraper for the Bier Stein's tap list.
 
 ## Learning
 
-- [📚 Tailwind CSS From Scratch](./udemy/tailwind-from-scratch/) - from the ["*Tailwind CSS From Scratch*" Udemy course](https://www.udemy.com/course/tailwind-from-scratch)
+- [📚 Tailwind CSS From Scratch](https://github.com/clmay/sandbox/tree/main/udemy/tailwind-from-scratch) - from the ["*Tailwind CSS From Scratch*" Udemy course](https://www.udemy.com/course/tailwind-from-scratch)
