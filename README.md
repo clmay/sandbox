@@ -37,3 +37,9 @@ A Deno-based web scraper for the Bier Stein's tap list.
 ## Learning
 
 - [📚 Tailwind CSS From Scratch](https://github.com/clmay/sandbox/tree/main/udemy/tailwind-from-scratch) - from the ["*Tailwind CSS From Scratch*" Udemy course](https://www.udemy.com/course/tailwind-from-scratch)
+
+## Play
+
+### [Quines](https://github.com/clmay/sandbox/tree/main/quines)
+
+A quine is a program that outputs its own source code. These are my attempts to code golf smaller and smaller quines, just for fun.
