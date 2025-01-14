@@ -1,5 +1,7 @@
 # sandbox
 
+<img align="right" width="400" height="400" src="./sandbox.png" alt="sandbox with toys" style="margin: 0 0 20px 20px;">
+
 A personal sandbox repository for learning, experimentation, and project incubation. This space serves as a playground for:
 
 - 🌱 Growing new project ideas
@@ -34,5 +36,4 @@ A Deno-based web scraper for the Bier Stein's tap list.
 ## Learning
 
 - [📚 Tailwind CSS From Scratch](./udemy/tailwind-from-scratch/) - from the ["*Tailwind CSS From Scratch*" Udemy course](https://www.udemy.com/course/tailwind-from-scratch)
-
 ![sandbox with toys](./sandbox.png)
