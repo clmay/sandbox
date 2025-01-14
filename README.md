@@ -1,4 +1,4 @@
-# sandbox
+# Sandbox
 
 <img align="right" width="400" height="400" src="./sandbox.png" alt="sandbox with toys" style="margin: 0 0 20px 20px;">
 
@@ -11,10 +11,10 @@ A personal sandbox repository for learning, experimentation, and project incubat
 
 Projects here are in various stages of development—from initial concepts to completed utilities. Some may graduate to their own repositories, while others might remain here for posterity.
 
+## Web applications
 
-## Web Applications
+### [🍺 Steindruck](https://github.com/clmay/sandbox/tree/main/ex/steindruck)
 
-### [🍺 Bier Stein Taplist](https://github.com/clmay/sandbox/tree/main/ex/bier_stein_taplist)
 ✨ Not Started ✨
 
 A Phoenix web application that archives the Bier Stein's tap list and allows users to explore its history.
@@ -25,6 +25,7 @@ A Phoenix web application that archives the Bier Stein's tap list and allows use
 ## Utilities
 
 ### [🤖 Bier Stein Scraper](https://github.com/clmay/sandbox/tree/main/js/bier-stein-scraper)
+
 ✅ Complete ✅
 
 A Deno-based web scraper for the Bier Stein's tap list.
