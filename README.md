@@ -1,6 +1,6 @@
 # sandbox
 
-<img align="right" width="400" height="400" src="./sandbox.svg" alt="sandbox with toys" style="margin: 0 0 20px 20px;">
+<img align="right" width="800" height="800" src="./sandbox.svg" alt="sandbox with toys" style="margin: 0 20px;">
 
 A personal sandbox repository for learning, experimentation, and project incubation. This space serves as a playground
 for:
